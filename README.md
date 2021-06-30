@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Saarang Srinivasan and I'm a high school student who's interested in Computer Science. 
+My name is Saarang Srinivasan and I'm a competitive programmer and a data science enthusiast.
 
 <p align="center">
 <small>View Counter:</small><br>
