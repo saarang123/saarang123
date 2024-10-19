@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Saarang Srinivasan and I'm a competitive programmer and a data science enthusiast.
+My name is Saarang Srinivasan and I'm a senior at Purdue University studying Computer Science. I'm fascinated by problems and have a strong interest in machine learning and algorithms. 
+
+I'm currently working on projects in the fields of program verification/synthesis and ML systems through my coursework at Purdue. I'm also researching the problem of repeated cake cutting in algorithmic game theory. 
+
+I'm looking for full time or internship roles in software engineering from May 2025. 
 
 <p align="center">
 <small>View Counter:</small><br>
