@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Saarang Srinivasan and I'm a senior at Purdue University studying Computer Science. I'm fascinated by problems and have a strong interest in machine learning and algorithms. 
+My name is Saarang Srinivasan and I'm a senior at Purdue University studying Computer Science. I'm fascinated by problems and have a strong interest in machine learning and algorithms. More specifically, I'm interested in designing efficient and scalable Systems for Machine Learning. 
 
-I'm currently working on projects in the fields of program verification/synthesis and ML systems through my coursework at Purdue. I'm also researching the problem of repeated cake cutting in algorithmic game theory. 
+In the past, I've explored the TinyGrad ML framework, and developed a Translation Validation framework for it (still in the works). This was based on existing works like Alive2/MLIR-tv and implemented using the Python Z3 SMT library.
 
-I'm looking for full time or internship roles in software engineering from May 2025. 
+I've developed optimizations for the TVM AutoScheduler by integrating it with a GNN cost model to predict the runtime of low level tensor programs. Repo/fork available [here](https://github.com/knightron0/tvm-gnn-costmodel). 
+
+I'm looking for full time or internship roles in software engineering or machine learning from May 2025. 
 
 <p align="center">
 <small>View Counter:</small><br>
