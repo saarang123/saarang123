@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Saarang Srinivasan and I'm a senior at Purdue University studying Computer Science. I'm fascinated by problems and have a strong interest in machine learning and algorithms. More specifically, I'm interested in designing efficient and scalable Systems for Machine Learning. 
+My name is Saarang Srinivasan and I'm a senior at Purdue University studying Computer Science. I'm fascinated by problems and have a strong interest in machine learning and algorithms. More specifically, I'm interested in designing efficient and scalable Systems for Machine Learning. More information is on my website [here](https://saarang123.github.io/).
 
 In the past, I've explored the TinyGrad ML framework, and developed a Translation Validation framework for it (still in the works). This was based on existing works like Alive2/MLIR-tv and implemented using the Python Z3 SMT library.
 
